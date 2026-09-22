@@ -17,7 +17,6 @@ Se estiman y comparan distintos modelos de regresión:
 * Regresión lineal por Mínimos Cuadrados Ordinarios (OLS).
 * Ridge Regression.
 * LASSO.
-* Elastic Net.
 
 El desempeño de los modelos se evalúa mediante métricas de error predictivo, incluyendo **RMSE**, **MAE** y **R²**.
 
